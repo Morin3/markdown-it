@@ -82,7 +82,7 @@
     "ndoc": "^6.0.0",
     "needle": "^3.0.0",
     "rollup": "^4.5.0",
-    "shelljs": "^0.8.4",
+    "shelljs": "^0.9.0",
     "supertest": "^6.0.1"
   },
   "mocha": {
